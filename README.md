@@ -5,4 +5,4 @@ Ex: La maison près de la fontaine ==> La sonmai près de la ainefont
 
 ## Etapes
 * Ecrire une fonction
-* Permuter les mots moitiés de mot à condition que le mot fasse 6 caractères au min
+* Permuter les mots à la moitié de mot à condition que le mot fasse 6 caractères au min
