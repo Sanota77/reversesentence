@@ -1,0 +1,17 @@
+{
+    "name": "yavuz/dojo-reverse",
+    "authors": [
+        {
+            "name": "yavuzkutuk",
+            "email": "yavuz@kutuk.fr"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
